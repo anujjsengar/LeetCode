@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anujjsengar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anujjsengar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/anujjsengar/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0344-reverse-string](https://github.com/anujjsengar/LeetCode/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/anujjsengar/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/anujjsengar/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/anujjsengar/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/anujjsengar/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anujjsengar/LeetCode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/anujjsengar/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anujjsengar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/anujjsengar/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Number Theory
