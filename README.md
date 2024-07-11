@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anujjsengar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/anujjsengar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anujjsengar/LeetCode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anujjsengar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/anujjsengar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anujjsengar/LeetCode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anujjsengar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/anujjsengar/LeetCode/tree/master/2645-pass-the-pillow) |
