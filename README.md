@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/anujjsengar/LeetCode/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/anujjsengar/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/anujjsengar/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
