@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anujjsengar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/anujjsengar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/anujjsengar/LeetCode/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/anujjsengar/LeetCode/tree/master/0520-detect-capital) |
 | [0953-reverse-only-letters](https://github.com/anujjsengar/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/anujjsengar/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/anujjsengar/LeetCode/tree/master/1720-crawler-log-folder) |
