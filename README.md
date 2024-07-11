@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anujjsengar/LeetCode/tree/master/0035-search-insert-position) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anujjsengar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anujjsengar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anujjsengar/LeetCode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/anujjsengar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anujjsengar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
