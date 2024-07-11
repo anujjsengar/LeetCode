@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/anujjsengar/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/anujjsengar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anujjsengar/LeetCode/tree/master/0342-power-of-four) |
+| [1236-n-th-tribonacci-number](https://github.com/anujjsengar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anujjsengar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/anujjsengar/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3373-maximum-prime-difference](https://github.com/anujjsengar/LeetCode/tree/master/3373-maximum-prime-difference) |
@@ -234,8 +235,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujjsengar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1236-n-th-tribonacci-number](https://github.com/anujjsengar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/anujjsengar/LeetCode/tree/master/0739-daily-temperatures) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/anujjsengar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
