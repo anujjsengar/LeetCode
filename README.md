@@ -86,4 +86,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/anujjsengar/LeetCode/tree/master/1803-average-waiting-time) |
+| [2645-pass-the-pillow](https://github.com/anujjsengar/LeetCode/tree/master/2645-pass-the-pillow) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/anujjsengar/LeetCode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
