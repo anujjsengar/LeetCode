@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anujjsengar/LeetCode/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/anujjsengar/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anujjsengar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anujjsengar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/anujjsengar/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anujjsengar/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/anujjsengar/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/anujjsengar/LeetCode/tree/master/0326-power-of-three) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/anujjsengar/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anujjsengar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/anujjsengar/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Number Theory
