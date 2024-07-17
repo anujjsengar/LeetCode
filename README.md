@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/anujjsengar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/anujjsengar/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/anujjsengar/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anujjsengar/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2384-root-equals-sum-of-children](https://github.com/anujjsengar/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/anujjsengar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/anujjsengar/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/anujjsengar/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anujjsengar/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2384-root-equals-sum-of-children](https://github.com/anujjsengar/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anujjsengar/LeetCode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/anujjsengar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anujjsengar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Queue
 |  |
