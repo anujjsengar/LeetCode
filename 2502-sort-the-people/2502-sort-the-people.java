@@ -6,7 +6,7 @@ class Solution {
        }
 Arrays.sort(heights);
 for (int i = 0; i < heights.length; i++) {
-    names[heights.length-1-i] = map.getOrDefault(heights[i], Integer.toString(heights[i])); // Use getOrDefault for potential missing values
+    names[heights.length-1-i] = map.getOrDefault(heights[i], Integer.toString(heights[i]));
 }
 
         return names;
