@@ -1,18 +1,14 @@
 class Solution {
     public String[] sortPeople(String[] names, int[] heights) {
-        for(int i=0;i<heights.length-1;i++){
-            for(int j=i+1;j<heights.length;j++){
-                if(heights[i]<heights[j]){
-                    int temp=heights[i];
-                    heights[i]=heights[j];
-                    heights[j]=temp;
-                    String s=names[i];
-                    names[i]=names[j];
-                    names[j]=s;
-                }
-            }
-        }
-        System.out.println(heights);
+        Map<Integer, String> map = new HashMap<>();
+        for(int i = 0;i<names.length;i++){
+        map.put(heights[i],names[i]);
+       }
+Arrays.sort(heights);
+for (int i = 0; i < heights.length; i++) {
+    names[heights.length-1-i] = map.getOrDefault(heights[i], Integer.toString(heights[i])); // Use getOrDefault for potential missing values
+}
+
         return names;
     }
 }
