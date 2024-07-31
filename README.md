@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anujjsengar/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/anujjsengar/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anujjsengar/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2384-root-equals-sum-of-children](https://github.com/anujjsengar/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/anujjsengar/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/anujjsengar/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/anujjsengar/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/anujjsengar/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anujjsengar/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anujjsengar/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/anujjsengar/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anujjsengar/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2384-root-equals-sum-of-children](https://github.com/anujjsengar/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
