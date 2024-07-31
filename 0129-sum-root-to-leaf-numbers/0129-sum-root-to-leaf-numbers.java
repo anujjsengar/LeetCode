@@ -14,18 +14,22 @@
  * }
  */
 class Solution {
-    static int sum=0;
+    static int max=0;
     public int sumNumbers(TreeNode root) {
-        return solve(root,0);
+        max=0;
+        solve(root,"");
+        return max;
     }
-    public int solve(TreeNode root,int sum){
+    public void solve(TreeNode root,String sum){
         if(root==null){
-            return 0;
+            return ;
         }
-        if(root.right==null && root.left==null){
-            return sum*10+root.val;
+        sum+=root.val;
+        if(root.left==null && root.right==null){
+            max=max+Integer.parseInt(sum);
+            return; 
         }
-        int newsum=sum*10+root.val;
-        return solve(root.left,newsum)+solve(root.right,newsum);
-}
+        solve(root.left,sum);
+        solve(root.right,sum);
+    }
 }
