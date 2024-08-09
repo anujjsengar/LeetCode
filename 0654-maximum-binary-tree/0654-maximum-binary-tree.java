@@ -18,19 +18,15 @@ class Solution {
         if(nums.length==0){
             return null;
         }
-        int index=MaxIndex(nums);
-        TreeNode root=new TreeNode(nums[index]);
-        root.left=constructMaximumBinaryTree(Arrays.copyOfRange(nums, 0, index));
-        root.right=constructMaximumBinaryTree(Arrays.copyOfRange(nums,index+1,nums.length));
-        return root;
-    }
-    public int MaxIndex(int[] nums){
         int index=0;
         for(int i=0;i<nums.length;i++){
             if(nums[i]>nums[index]){
                 index=i;
             }
         }
-        return index;
+        TreeNode root=new TreeNode(nums[index]);
+        root.left=constructMaximumBinaryTree(Arrays.copyOfRange(nums, 0, index));
+        root.right=constructMaximumBinaryTree(Arrays.copyOfRange(nums,index+1,nums.length));
+        return root;
     }
 }
