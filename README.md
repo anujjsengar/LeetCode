@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anujjsengar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0654-maximum-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujjsengar/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anujjsengar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/anujjsengar/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0654-maximum-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/anujjsengar/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anujjsengar/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anujjsengar/LeetCode/tree/master/0739-daily-temperatures) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/anujjsengar/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/anujjsengar/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/anujjsengar/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/anujjsengar/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/anujjsengar/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/anujjsengar/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anujjsengar/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anujjsengar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/anujjsengar/LeetCode/tree/master/0463-island-perimeter) |
+| [0654-maximum-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/anujjsengar/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anujjsengar/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anujjsengar/LeetCode/tree/master/0739-daily-temperatures) |
@@ -385,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/anujjsengar/LeetCode/tree/master/0739-daily-temperatures) |
 ## Memoization
 |  |
