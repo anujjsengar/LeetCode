@@ -24,28 +24,22 @@ class Solution {
     }
     public List<Integer> largestValues(TreeNode root) {
         ArrayList<Integer> li=new ArrayList<>();
-        if(root==null){
-            return li;
-        }
-        Queue<info> q=new LinkedList<>();
-        q.add(new info(root,0));
-        while(!q.isEmpty()){
-            info curr=q.poll();
-            if(li.size()==curr.level){
-                li.add(curr.root.val);
-            }
-            else{
-                if(li.get(curr.level)<curr.root.val){
-                    li.set(curr.level,curr.root.val);
-                }
-            }
-            if(curr.root.left!=null){
-                q.add(new info(curr.root.left,curr.level+1));
-            }
-            if(curr.root.right!=null){
-                q.add(new info(curr.root.right,curr.level+1));
-            }
-        }
+        large(root,0,li);
         return li;
+    }
+    public void large(TreeNode root,int depth,ArrayList<Integer> li){
+        if(root==null){
+            return ;
+        }
+        if(li.size()==depth){
+            li.add(root.val);
+        }
+        else{
+            if(li.get(depth)<root.val){
+                li.set(depth,root.val);
+            }
+        }
+        large(root.left,depth+1,li);
+        large(root.right,depth+1,li);
     }
 }
