@@ -22,38 +22,21 @@ class Node {
 */
 
 class Solution {
-    static class info{
-        Node root;
-        int level;
-        public info(){
-            this.root=null;
-            this.level=0;
-        }
-        public info(Node root,int level){
-            this.root=root;
-            this.level=level;
-        }
-    }
     public Node connect(Node root) {
-        if(root==null){
-            return null;
-        }
-        Queue<info> q=new LinkedList<>();
-        info prev=new info();
-        q.add(new info(root,0));
-        while(!q.isEmpty()){
-            info curr=q.poll();
-            if(prev.root!=null && prev.level==curr.level){
-                prev.root.next=curr.root;
-            }
-            prev=curr;
-            if(curr.root.left!=null){
-                q.add(new info(curr.root.left,curr.level+1));
-            }
-            if(curr.root.right!=null){
-                q.add(new info(curr.root.right,curr.level+1));
-            }
-        }
+        Map<Integer,Node> map=new HashMap<>();
+        dfs(root,0,map);
         return root;
+    }
+    public void dfs(Node root,int level,Map<Integer,Node> map){
+        if(root==null){
+            return ;
+        }
+        if(map.containsKey(level)){
+            map.get(level).next=root;
+        }
+        map.put(level,root);
+        dfs(root.left,level+1,map);
+        dfs(root.right,level+1,map);
+
     }
 }
