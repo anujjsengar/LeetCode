@@ -14,26 +14,29 @@
  * }
  */
 class Solution {
+    static int depth=0;
+    static int ans=0;
     public int deepestLeavesSum(TreeNode root) {
+        depth=0;
+        ans=0;
         if(root==null){
             return 0;
         }
-        Map<Integer,Integer> map=new HashMap<>();
-        int max=dfs(root,1,map);
-        return map.get(max);
+        sum(root,1);
+        return ans;
     }
-    public int dfs(TreeNode root,int level,Map<Integer,Integer> map){
+    public void sum(TreeNode root,int dp){
         if(root==null){
-            return 0;
+            return ;
         }
-        if(map.containsKey(level)){
-            map.put(level,map.get(level)+root.val);
+        if(dp>depth){
+            depth=dp;
+            ans=root.val;
         }
-        else{
-            map.put(level,root.val);
+        else if(dp==depth){
+            ans=ans+root.val;
         }
-        int left=dfs(root.left,level+1,map);
-        int right=dfs(root.right,level+1,map);
-        return Math.max(left,right)+1;
+        sum(root.left,dp+1);
+        sum(root.right,dp+1);
     }
 }
