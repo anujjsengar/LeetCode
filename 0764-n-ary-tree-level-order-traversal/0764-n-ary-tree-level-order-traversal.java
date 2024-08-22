@@ -18,31 +18,26 @@ class Node {
 */
 
 class Solution {
-    static class info {
-    Node root;
-    int level;
-
-    info(Node root, int level) {
-        this.root = root;
-        this.level = level;
-    }
-}
     public List<List<Integer>> levelOrder(Node root) {
         List<List<Integer>> li=new ArrayList<>();
         if(root==null){
             return li;
         }
-        Queue<info> q=new LinkedList<>();
-        q.add(new info(root,1));
+        Queue<Node> q=new LinkedList<>();
+        q.add(root);
         while(!q.isEmpty()){
-            info curr=q.remove();
-            if(li.size()<curr.level){
-                li.add(new ArrayList<>());
+            int size=q.size();
+            int k=1;
+            List<Integer> list=new ArrayList<>();
+            while(k<=size){
+                Node curr=q.remove();
+                list.add(curr.val);
+                for(Node child : curr.children){
+                    q.add(child);
+                }
+                k++;
             }
-            li.get(curr.level-1).add(curr.root.val);
-            for(Node child:curr.root.children){
-                q.add(new info(child,curr.level+1));
-            }
+            li.add(list);
         }
         return li;
     }
