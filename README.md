@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anujjsengar/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/anujjsengar/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/anujjsengar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anujjsengar/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1731-even-odd-tree](https://github.com/anujjsengar/LeetCode/tree/master/1731-even-odd-tree) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anujjsengar/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/anujjsengar/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/anujjsengar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anujjsengar/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anujjsengar/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/anujjsengar/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/anujjsengar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anujjsengar/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1731-even-odd-tree](https://github.com/anujjsengar/LeetCode/tree/master/1731-even-odd-tree) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/anujjsengar/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1005-univalued-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/anujjsengar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1731-even-odd-tree](https://github.com/anujjsengar/LeetCode/tree/master/1731-even-odd-tree) |
 ## Array
