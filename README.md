@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/anujjsengar/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/anujjsengar/LeetCode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/anujjsengar/LeetCode/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/anujjsengar/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 ## Greedy
 |  |
 | ------- |
