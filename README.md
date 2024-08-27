@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/anujjsengar/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anujjsengar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/anujjsengar/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0933-increasing-order-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/anujjsengar/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anujjsengar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/anujjsengar/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/anujjsengar/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anujjsengar/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anujjsengar/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/anujjsengar/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anujjsengar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/anujjsengar/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anujjsengar/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anujjsengar/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/anujjsengar/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anujjsengar/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anujjsengar/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/anujjsengar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anujjsengar/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Queue
 |  |
