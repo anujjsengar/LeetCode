@@ -21,10 +21,10 @@ class Solution {
         }
         TreeNode left=root.left;
         TreeNode right=root.right;
-        if(prev!=null)
+        if(prev!=null){
         prev.right=root;
-        if(prev!=null)
         prev.left=null;
+        }
         prev=root;
         flatten(left);
         flatten(right);
