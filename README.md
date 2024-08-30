@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anujjsengar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anujjsengar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anujjsengar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/anujjsengar/LeetCode/tree/master/0389-find-the-difference) |
 | [0917-boats-to-save-people](https://github.com/anujjsengar/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anujjsengar/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anujjsengar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/anujjsengar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/anujjsengar/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anujjsengar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/anujjsengar/LeetCode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/anujjsengar/LeetCode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/anujjsengar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/anujjsengar/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/anujjsengar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/anujjsengar/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/anujjsengar/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/anujjsengar/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/anujjsengar/LeetCode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/anujjsengar/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 ## Greedy
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anujjsengar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anujjsengar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anujjsengar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/anujjsengar/LeetCode/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/anujjsengar/LeetCode/tree/master/0567-permutation-in-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anujjsengar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/anujjsengar/LeetCode/tree/master/2502-sort-the-people) |
