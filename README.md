@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/anujjsengar/LeetCode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anujjsengar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anujjsengar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/anujjsengar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2502-sort-the-people](https://github.com/anujjsengar/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/anujjsengar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/anujjsengar/LeetCode/tree/master/2846-robot-collisions) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/anujjsengar/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1803-average-waiting-time](https://github.com/anujjsengar/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anujjsengar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/anujjsengar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anujjsengar/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/anujjsengar/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/anujjsengar/LeetCode/tree/master/2846-robot-collisions) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/anujjsengar/LeetCode/tree/master/0463-island-perimeter) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/anujjsengar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
