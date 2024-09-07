@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/anujjsengar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/anujjsengar/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anujjsengar/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1484-linked-list-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anujjsengar/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anujjsengar/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/anujjsengar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anujjsengar/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/anujjsengar/LeetCode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/anujjsengar/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/anujjsengar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anujjsengar/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/anujjsengar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anujjsengar/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/anujjsengar/LeetCode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/anujjsengar/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/anujjsengar/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1484-linked-list-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/anujjsengar/LeetCode/tree/master/1731-even-odd-tree) |
 ## Array
 |  |
