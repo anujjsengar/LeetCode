@@ -13,20 +13,19 @@ class Solution {
         ListNode temp=head;
         while(temp.next!=null){
             ListNode tt=temp.next;
-            temp.next=new ListNode(common(temp.val,tt.val));
+            int a=temp.val;
+            int b=tt.val;
+            int div=a>b?b:a;
+            while(div>0){
+                if(a%div==0 && b%div==0){
+                    break;
+                }
+            div--;
+            }
+            temp.next=new ListNode(div);
             temp.next.next=tt;
             temp=tt;
         }
         return head;
-    }
-    public int common(int a,int b){
-        int div=a>b?b:a;
-        while(div>0){
-            if(a%div==0 && b%div==0){
-                return div;
-            }
-            div--;
-        }
-        return 1;
     }
 }
