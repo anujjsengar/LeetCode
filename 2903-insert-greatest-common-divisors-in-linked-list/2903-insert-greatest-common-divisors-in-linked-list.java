@@ -13,19 +13,21 @@ class Solution {
         ListNode temp=head;
         while(temp.next!=null){
             ListNode tt=temp.next;
-            int a=temp.val;
-            int b=tt.val;
-            int div=a>b?b:a;
-            while(div>0){
-                if(a%div==0 && b%div==0){
-                    break;
-                }
-            div--;
-            }
-            temp.next=new ListNode(div);
+            temp.next=new ListNode(gcd(temp.val,tt.val));
             temp.next.next=tt;
             temp=tt;
         }
         return head;
+    }
+    public int gcd(int a,int b){
+        if(a==1 || b==1){
+            return 1;
+        }
+        while(b!=0){
+            int rem=a%b;
+            a=b;
+            b=rem;
+        }
+        return a;
     }
 }
