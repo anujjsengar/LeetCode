@@ -1,64 +1,33 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
+import java.util.PriorityQueue;
+
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        if(lists.length==0){
-            return null;
-        }
-        int index=0;
-        ListNode list2=lists[0];
-        while(index<lists.length){
-            if(lists[index]!=null){
-                list2=lists[index];
-                break;
+        // PriorityQueue to hold the nodes with the smallest value at the top
+        PriorityQueue<ListNode> pq = new PriorityQueue<>((a, b) -> Integer.compare(a.val, b.val));
+        
+        // Add the head of each list to the priority queue
+        for (ListNode list : lists) {
+            if (list != null) {
+                pq.add(list);
             }
-            index++;
         }
-        for(int i=index+1;i<lists.length;i++){
-        ListNode list1=lists[i];
-        if(list1==null){
-            continue;
-        }
-        if(list2==null){
-            return list1;
-        }
-        if(list1.val<list2.val){
-            ListNode x=list1.next;
-            list1.next=list2;
-            list2=list1;
-            list1=x;
-        }
-        ListNode l1=list1;
-        while(l1!=null){
-            ListNode hold=l1.next;
-            ListNode l2=list2;
-            while(l2!=null){
-                if(l2.next==null && l1.val>=l2.val){
-                    l2.next=l1;
-                    l1.next=null;
-                    break;
-                }
-                if(l1.val>=l2.val && l1.val<=l2.next.val){
-                    ListNode next=l2.next;
-                    l2.next=l1;
-                    l1.next=next;
-                    break;
-                }
-                else{
-                    l2=l2.next;
-                }
+        
+        // Create a dummy head for the resulting merged list
+        ListNode dummy = new ListNode(0);
+        ListNode current = dummy;
+        
+        // Process nodes from the priority queue
+        while (!pq.isEmpty()) {
+            ListNode node = pq.poll();
+            current.next = node;
+            current = current.next;
+            
+            // If there is a next node, add it to the priority queue
+            if (node.next != null) {
+                pq.add(node.next);
             }
-            l1=hold;
         }
-        }
-        return list2;
+        
+        return dummy.next; // Return the merged list, skipping the dummy head
     }
 }
