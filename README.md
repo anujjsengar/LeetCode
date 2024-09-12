@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/anujjsengar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1127-last-stone-weight](https://github.com/anujjsengar/LeetCode/tree/master/1127-last-stone-weight) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/anujjsengar/LeetCode/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/anujjsengar/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1127-last-stone-weight](https://github.com/anujjsengar/LeetCode/tree/master/1127-last-stone-weight) |
 | [1511-count-number-of-teams](https://github.com/anujjsengar/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anujjsengar/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/anujjsengar/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anujjsengar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/anujjsengar/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/anujjsengar/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anujjsengar/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anujjsengar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/anujjsengar/LeetCode/tree/master/2502-sort-the-people) |
