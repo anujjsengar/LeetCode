@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/anujjsengar/LeetCode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/anujjsengar/LeetCode/tree/master/2384-root-equals-sum-of-children) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/anujjsengar/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anujjsengar/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/anujjsengar/LeetCode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/anujjsengar/LeetCode/tree/master/2384-root-equals-sum-of-children) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
