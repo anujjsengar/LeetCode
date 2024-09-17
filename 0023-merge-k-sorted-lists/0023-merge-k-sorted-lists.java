@@ -4,13 +4,10 @@ class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
 
         PriorityQueue<ListNode> pq = new PriorityQueue<>((a, b) -> Integer.compare(a.val, b.val));
-        
-        for (ListNode list : lists) {
-            if (list != null) {
-                pq.add(list);
-            }
+        for(ListNode list:lists){
+            if(list!=null)
+            pq.add(list);
         }
-    
         ListNode dummy = new ListNode(0);
         ListNode current = dummy;
         
