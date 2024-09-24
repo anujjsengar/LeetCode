@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anujjsengar/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anujjsengar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/anujjsengar/LeetCode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/anujjsengar/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/anujjsengar/LeetCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/anujjsengar/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/anujjsengar/LeetCode/tree/master/0567-permutation-in-string) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anujjsengar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anujjsengar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/anujjsengar/LeetCode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/anujjsengar/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anujjsengar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/anujjsengar/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anujjsengar/LeetCode/tree/master/0567-permutation-in-string) |
 ## Binary Indexed Tree
 |  |
