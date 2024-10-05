@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-even-odd-tree](https://github.com/anujjsengar/LeetCode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/anujjsengar/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-even-odd-tree](https://github.com/anujjsengar/LeetCode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/anujjsengar/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/anujjsengar/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/anujjsengar/LeetCode/tree/master/1731-even-odd-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/anujjsengar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anujjsengar/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2502-sort-the-people](https://github.com/anujjsengar/LeetCode/tree/master/2502-sort-the-people) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2846-robot-collisions](https://github.com/anujjsengar/LeetCode/tree/master/2846-robot-collisions) |
 | [3226-minimum-number-game](https://github.com/anujjsengar/LeetCode/tree/master/3226-minimum-number-game) |
 ## Quickselect
