@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/anujjsengar/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2846-robot-collisions](https://github.com/anujjsengar/LeetCode/tree/master/2846-robot-collisions) |
 | [3226-minimum-number-game](https://github.com/anujjsengar/LeetCode/tree/master/3226-minimum-number-game) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/anujjsengar/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3373-maximum-prime-difference](https://github.com/anujjsengar/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Sorting
 |  |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/anujjsengar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anujjsengar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/anujjsengar/LeetCode/tree/master/2502-sort-the-people) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/anujjsengar/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anujjsengar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/anujjsengar/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anujjsengar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/anujjsengar/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
