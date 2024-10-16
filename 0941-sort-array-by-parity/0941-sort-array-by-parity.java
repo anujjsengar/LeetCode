@@ -10,9 +10,6 @@ class Solution {
                 left++;
                 right--;
             }
-            else if(nums[left]%2==0 && nums[right]%2==0){
-                left++;
-            }
             else if(nums[left]%2!=0 && nums[right]%2!=0){
                 right--;
             }
