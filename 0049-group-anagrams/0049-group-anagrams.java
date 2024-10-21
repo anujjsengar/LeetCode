@@ -1,28 +1,30 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        List<List<String>> li=new ArrayList<>();
-        HashMap<String,List<String>> map=new HashMap();
-        for(String str:strs){
-            String key=sorting(str);
-            if(!map.containsKey(key)){
-                map.put(key,new ArrayList<>());
+        HashMap<String,ArrayList<String>> map=new HashMap<>();
+        for(String st:strs){
+            int [] freq=new int[26];
+            for(int i=0;i<st.length();i++){
+                freq[st.charAt(i)-'a']+=1;
             }
-            map.get(key).add(str);
+            String ans="";
+            for(int i=0;i<26;i++){
+                int n=freq[i];
+                while(n-->0){
+                    ans=ans+(i+'a');
+                }
+            }
+            if(!map.containsKey(ans)){
+                map.put(ans,new ArrayList<>());
+            }
+            map.get(ans).add(st);
         }
-        for(String k:map.keySet()){
-            li.add(map.get(k));
+        for(String str:map.keySet()){
+            System.out.println(str+" "+map.get(str));
         }
-        return li;
-    }
-    public String sorting(String str){
-        int[] arr=new int[26];
-        for(int i=0;i<str.length();i++){
-            arr[str.charAt(i)-'a']=arr[str.charAt(i)-'a']+1;
+        List<List<String>> res=new ArrayList<>();
+        for(String s:map.keySet()){
+            res.add(new ArrayList(map.get(s)));
         }
-        String key="";
-        for(int a:arr){
-            key=key+a+',';
-        }
-        return key;
+        return res;
     }
 }
