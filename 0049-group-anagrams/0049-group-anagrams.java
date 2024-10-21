@@ -18,9 +18,6 @@ class Solution {
             }
             map.get(ans).add(st);
         }
-        for(String str:map.keySet()){
-            System.out.println(str+" "+map.get(str));
-        }
         List<List<String>> res=new ArrayList<>();
         for(String s:map.keySet()){
             res.add(new ArrayList(map.get(s)));
