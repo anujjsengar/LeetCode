@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/anujjsengar/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/anujjsengar/LeetCode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anujjsengar/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/anujjsengar/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/anujjsengar/LeetCode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/anujjsengar/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/anujjsengar/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/anujjsengar/LeetCode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anujjsengar/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/anujjsengar/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0933-increasing-order-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anujjsengar/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/anujjsengar/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
