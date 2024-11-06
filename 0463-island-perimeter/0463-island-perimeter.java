@@ -1,31 +1,27 @@
 class Solution {
+    int count=0;
     public int islandPerimeter(int[][] grid) {
-        int counter=0;
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
                 if(grid[i][j]==1){
-                    counter=counter+check(grid,i,j);
+                    check(grid,i,j);
                 }
             }
         }
-        return counter;
+        return count;
     }
-      public static int check(int [][]grid,int row,int col){
-        int count=0;
-     if(col+1==grid[0].length || grid[row][col+1]==0){
-        count++;
-     }
-     if(col-1==-1 || grid[row][col-1]==0){
-        count++;
-     }
-     if(row+1==grid.length || grid[row+1][col]==0){
-        count++;
-     }
-     if(row-1==-1 || grid[row-1][col]==0){
-        count++;
-     }
-     return count;
+    public void check(int[][] grid,int r,int c){
+        if(c==-1 || c==grid[0].length || r==-1 || r==grid.length || grid[r][c]==0){
+            count++;
+            return ;
+        }
+        if(grid[r][c]==-1){
+            return ;
+        }
+        grid[r][c]=-1;
+        check(grid,r+1,c);
+        check(grid,r,c+1);
+        check(grid,r-1,c);
+        check(grid,r,c-1);
     }
 }
-
-
