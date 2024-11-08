@@ -10,15 +10,12 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ArrayList <ListNode> li=new ArrayList<>();
-        ListNode temp=head;
-        while(temp!=null){
-            li.add(temp);
-            temp=temp.next;
-            //n++;
+        ListNode fast=head;
+        ListNode slow=head;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
-        int n=li.size();
-        //n=n%2==0?n/2+1:(n+1)/2;
-        return li.get(n/2);
+        return slow;
     }
 }
