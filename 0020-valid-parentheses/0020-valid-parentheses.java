@@ -1,11 +1,14 @@
 class Solution {
     public boolean isValid(String s) {
-        while(s.length()!=0 && (s.contains("()") || s.contains("{}") || s.contains("[]"))){
-            s=s.replace("()","").replace("{}","").replace("[]","");
+        Stack<Character> st=new Stack<>();
+        for(char c:s.toCharArray()){
+            if(!st.isEmpty() && ((c==')' && st.peek()=='(') || (c==']' && st.peek()=='[') || (c=='}' && st.peek()=='{'))){
+                st.pop();
+            }
+            else{
+                st.push(c);
+            }
         }
-        if(s.length()==0){
-            return true;
-        }
-        return false;
+        return st.isEmpty();
     }
 }
