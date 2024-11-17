@@ -14,47 +14,25 @@
  * }
  */
 class Solution {
-    static TreeNode node;
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
-        node=root;
-        List<List<Integer>> li=new ArrayList<>();
-        ArrayList<Integer> list=new ArrayList<>();
+        List<List<Integer>>  li=new ArrayList<>();
+        dfs(root,li,0);
+        return li;
+    }
+    public void dfs(TreeNode root,List<List<Integer>> li,int level){
         if(root==null){
-            return li;
+            return ;
         }
-        Queue<TreeNode> q=new LinkedList<>();
-        q.add(root);
-        while(!q.isEmpty()){
-            TreeNode curr=q.remove();
-            if(li.size()==level(curr,node,0)){
-                list.add(curr.val);
-                li.add(new ArrayList(list));
-                list.clear();
+        if(li.size()==level){
+            if(li.size()==0){
+                li.add(new ArrayList<>());
             }
             else{
-                    li.get(level(curr,node,0)).add(curr.val);
-            }
-            if(curr.left!=null){
-                q.add(curr.left);
-            }
-            if(curr.right!=null){
-                q.add(curr.right);
+                li.add(0,new ArrayList<>());
             }
         }
-        Collections.reverse(li);
-        return li;       
-}
-public int level(TreeNode curr,TreeNode root,int label){
-    if(root==null){
-        return 0;
+        li.get((li.size()-1)-level).add(root.val);
+        dfs(root.left,li,level+1);
+        dfs(root.right,li,level+1);
     }
-    if(root==curr){
-        return label;
-    }
-    int left=level(curr,root.left,label+1);
-    if(left!=0){
-        return left;
-    }
-    return level(curr,root.right,label+1);
-}
 }
