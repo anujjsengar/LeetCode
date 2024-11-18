@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anujjsengar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anujjsengar/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/anujjsengar/LeetCode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/anujjsengar/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/anujjsengar/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anujjsengar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/anujjsengar/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anujjsengar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/anujjsengar/LeetCode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/anujjsengar/LeetCode/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/anujjsengar/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/anujjsengar/LeetCode/tree/master/0257-binary-tree-paths) |
