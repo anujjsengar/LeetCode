@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anujjsengar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anujjsengar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anujjsengar/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/anujjsengar/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/anujjsengar/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/anujjsengar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anujjsengar/LeetCode/tree/master/0242-valid-anagram) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anujjsengar/LeetCode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/anujjsengar/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anujjsengar/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/anujjsengar/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anujjsengar/LeetCode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/anujjsengar/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/anujjsengar/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/anujjsengar/LeetCode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/anujjsengar/LeetCode/tree/master/0096-unique-binary-search-trees) |
