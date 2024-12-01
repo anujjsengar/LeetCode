@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/anujjsengar/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anujjsengar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anujjsengar/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/anujjsengar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anujjsengar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/anujjsengar/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/anujjsengar/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anujjsengar/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/anujjsengar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anujjsengar/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anujjsengar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/anujjsengar/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/anujjsengar/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anujjsengar/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/anujjsengar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Queue
 |  |
 | ------- |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/anujjsengar/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/anujjsengar/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/anujjsengar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anujjsengar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anujjsengar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2107-find-unique-binary-string](https://github.com/anujjsengar/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/anujjsengar/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/anujjsengar/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/anujjsengar/LeetCode/tree/master/0961-long-pressed-name) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/anujjsengar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anujjsengar/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/anujjsengar/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Number Theory
