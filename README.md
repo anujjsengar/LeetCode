@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/anujjsengar/LeetCode/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/anujjsengar/LeetCode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/anujjsengar/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anujjsengar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/anujjsengar/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anujjsengar/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/anujjsengar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/anujjsengar/LeetCode/tree/master/0506-relative-ranks) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/anujjsengar/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/anujjsengar/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/anujjsengar/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anujjsengar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/anujjsengar/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/anujjsengar/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/anujjsengar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/anujjsengar/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anujjsengar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/anujjsengar/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anujjsengar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anujjsengar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/anujjsengar/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -678,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anujjsengar/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anujjsengar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anujjsengar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/anujjsengar/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/anujjsengar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/anujjsengar/LeetCode/tree/master/0658-find-k-closest-elements) |
