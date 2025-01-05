@@ -1,20 +1,13 @@
-import java.math.BigInteger;
-
 class Solution {
     public int numTrees(int n) {
-        if (n == 0) return 1;
-        BigInteger fact2n = factorial(2 * n);
-        BigInteger factN1 = factorial(n + 1);
-        BigInteger factN = factorial(n);
-        BigInteger result = fact2n.divide(factN1.multiply(factN));
-        return result.intValue();
-    }
-
-    private BigInteger factorial(int n) {
-        BigInteger result = BigInteger.ONE;
-        for (int i = 2; i <= n; i++) {
-            result = result.multiply(BigInteger.valueOf(i));
+        int dp[]=new int[n+1];
+        dp[0]=1;
+        dp[1]=1;
+        for(int i=2;i<n+1;i++){
+            for(int j=0;j<i;j++){
+                dp[i]+=dp[j]*dp[i-j-1];
+            }
         }
-        return result;
+        return dp[n];
     }
 }
