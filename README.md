@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/anujjsengar/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/anujjsengar/LeetCode/tree/master/0682-baseball-game) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anujjsengar/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0735-asteroid-collision](https://github.com/anujjsengar/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anujjsengar/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/anujjsengar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/anujjsengar/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujjsengar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/anujjsengar/LeetCode/tree/master/0198-house-robber) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anujjsengar/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/anujjsengar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anujjsengar/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1236-n-th-tribonacci-number](https://github.com/anujjsengar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
