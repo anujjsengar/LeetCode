@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/anujjsengar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anujjsengar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/anujjsengar/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anujjsengar/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/anujjsengar/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/anujjsengar/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anujjsengar/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anujjsengar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1524-string-matching-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/anujjsengar/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anujjsengar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/anujjsengar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anujjsengar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/anujjsengar/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1524-string-matching-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anujjsengar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
