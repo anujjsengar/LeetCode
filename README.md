@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/anujjsengar/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/anujjsengar/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/anujjsengar/LeetCode/tree/master/1127-last-stone-weight) |
+| [1137-height-checker](https://github.com/anujjsengar/LeetCode/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/anujjsengar/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/anujjsengar/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anujjsengar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/anujjsengar/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/anujjsengar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1137-height-checker](https://github.com/anujjsengar/LeetCode/tree/master/1137-height-checker) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/anujjsengar/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anujjsengar/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anujjsengar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/anujjsengar/LeetCode/tree/master/0948-sort-an-array) |
+| [1137-height-checker](https://github.com/anujjsengar/LeetCode/tree/master/1137-height-checker) |
 ## Geometry
 |  |
 | ------- |
