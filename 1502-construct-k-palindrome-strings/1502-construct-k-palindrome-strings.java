@@ -4,17 +4,18 @@ class Solution {
         if(s.length()<k){
             return false;
         }
+        int count=0;
         for(int i=0;i<s.length();i++){
             if(!map.containsKey(s.charAt(i))){
                 map.put(s.charAt(i),0);
             }
-            map.put(s.charAt(i),map.get(s.charAt(i))+1);
-        }
-        int count=0;
-        for(char i:map.keySet()){
-            if(map.get(i)%2!=0){
+            if(map.get(s.charAt(i))%2==0){
                 count++;
             }
+            else{
+                count--;
+            }
+            map.put(s.charAt(i),map.get(s.charAt(i))+1);
         }
         if(count<=k){
             return true;
