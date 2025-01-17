@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anujjsengar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/anujjsengar/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/anujjsengar/LeetCode/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/anujjsengar/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anujjsengar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/anujjsengar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anujjsengar/LeetCode/tree/master/0090-subsets-ii) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/anujjsengar/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anujjsengar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/anujjsengar/LeetCode/tree/master/0463-island-perimeter) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anujjsengar/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anujjsengar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/anujjsengar/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/anujjsengar/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anujjsengar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/anujjsengar/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujjsengar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
