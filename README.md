@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anujjsengar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anujjsengar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/anujjsengar/LeetCode/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/anujjsengar/LeetCode/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/anujjsengar/LeetCode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/anujjsengar/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/anujjsengar/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/anujjsengar/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/anujjsengar/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/anujjsengar/LeetCode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/anujjsengar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anujjsengar/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2107-find-unique-binary-string](https://github.com/anujjsengar/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anujjsengar/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/anujjsengar/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/anujjsengar/LeetCode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/anujjsengar/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anujjsengar/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/anujjsengar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anujjsengar/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
