@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anujjsengar/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/anujjsengar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/anujjsengar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/anujjsengar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anujjsengar/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/anujjsengar/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/anujjsengar/LeetCode/tree/master/0055-jump-game) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anujjsengar/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/anujjsengar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anujjsengar/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/anujjsengar/LeetCode/tree/master/0134-gas-station) |
 | [0890-lemonade-change](https://github.com/anujjsengar/LeetCode/tree/master/0890-lemonade-change) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anujjsengar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/anujjsengar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anujjsengar/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anujjsengar/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anujjsengar/LeetCode/tree/master/0063-unique-paths-ii) |
