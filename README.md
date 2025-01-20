@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anujjsengar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/anujjsengar/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/anujjsengar/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/anujjsengar/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/anujjsengar/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anujjsengar/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anujjsengar/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anujjsengar/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/anujjsengar/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/anujjsengar/LeetCode/tree/master/0134-gas-station) |
 | [0890-lemonade-change](https://github.com/anujjsengar/LeetCode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/anujjsengar/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anujjsengar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/anujjsengar/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anujjsengar/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anujjsengar/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anujjsengar/LeetCode/tree/master/0064-minimum-path-sum) |
