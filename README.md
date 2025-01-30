@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/anujjsengar/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anujjsengar/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/anujjsengar/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/anujjsengar/LeetCode/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/anujjsengar/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/anujjsengar/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anujjsengar/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/anujjsengar/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/anujjsengar/LeetCode/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/anujjsengar/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anujjsengar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/anujjsengar/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/anujjsengar/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/anujjsengar/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anujjsengar/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anujjsengar/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -969,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/anujjsengar/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anujjsengar/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/anujjsengar/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/anujjsengar/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/anujjsengar/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/anujjsengar/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anujjsengar/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
