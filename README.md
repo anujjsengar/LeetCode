@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anujjsengar/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2439-longest-cycle-in-a-graph](https://github.com/anujjsengar/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anujjsengar/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -980,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/anujjsengar/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/anujjsengar/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anujjsengar/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/anujjsengar/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [3189-find-champion-ii](https://github.com/anujjsengar/LeetCode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/anujjsengar/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Combinatorics
@@ -1004,4 +1006,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/anujjsengar/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anujjsengar/LeetCode/tree/master/0210-course-schedule-ii) |
+| [2439-longest-cycle-in-a-graph](https://github.com/anujjsengar/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
