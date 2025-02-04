@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/anujjsengar/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/anujjsengar/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/anujjsengar/LeetCode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/anujjsengar/LeetCode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/anujjsengar/LeetCode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/anujjsengar/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anujjsengar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anujjsengar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anujjsengar/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/anujjsengar/LeetCode/tree/master/0134-gas-station) |
+| [0397-integer-replacement](https://github.com/anujjsengar/LeetCode/tree/master/0397-integer-replacement) |
 | [0890-lemonade-change](https://github.com/anujjsengar/LeetCode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/anujjsengar/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/anujjsengar/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/anujjsengar/LeetCode/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/anujjsengar/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/anujjsengar/LeetCode/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/anujjsengar/LeetCode/tree/master/0397-integer-replacement) |
 | [0494-target-sum](https://github.com/anujjsengar/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anujjsengar/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/anujjsengar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -879,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anujjsengar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/anujjsengar/LeetCode/tree/master/0397-integer-replacement) |
 | [1236-n-th-tribonacci-number](https://github.com/anujjsengar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Counting
 |  |
