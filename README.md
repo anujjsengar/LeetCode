@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/anujjsengar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/anujjsengar/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/anujjsengar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/anujjsengar/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anujjsengar/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2846-robot-collisions](https://github.com/anujjsengar/LeetCode/tree/master/2846-robot-collisions) |
 | [3447-clear-digits](https://github.com/anujjsengar/LeetCode/tree/master/3447-clear-digits) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/anujjsengar/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anujjsengar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/anujjsengar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/anujjsengar/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/anujjsengar/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anujjsengar/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anujjsengar/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/anujjsengar/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1803-average-waiting-time](https://github.com/anujjsengar/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anujjsengar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/anujjsengar/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/anujjsengar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anujjsengar/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anujjsengar/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
