@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/anujjsengar/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/anujjsengar/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anujjsengar/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/anujjsengar/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/anujjsengar/LeetCode/tree/master/2846-robot-collisions) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anujjsengar/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3226-minimum-number-game](https://github.com/anujjsengar/LeetCode/tree/master/3226-minimum-number-game) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/anujjsengar/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anujjsengar/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anujjsengar/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/anujjsengar/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
