@@ -892,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/anujjsengar/LeetCode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/anujjsengar/LeetCode/tree/master/0397-integer-replacement) |
 | [0494-target-sum](https://github.com/anujjsengar/LeetCode/tree/master/0494-target-sum) |
+| [0576-out-of-boundary-paths](https://github.com/anujjsengar/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anujjsengar/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/anujjsengar/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anujjsengar/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
