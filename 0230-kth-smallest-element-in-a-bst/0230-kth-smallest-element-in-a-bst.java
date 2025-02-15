@@ -14,18 +14,22 @@
  * }
  */
 class Solution {
+    int ans=0;
+    int count=0;
     public int kthSmallest(TreeNode root, int k) {
-        ArrayList<Integer> li=new ArrayList<>();
-        small(root,li);
-        Collections.sort(li);
-        return li.get(k-1);
+        find(root,k);
+        return ans;
     }
-    public void small(TreeNode root,ArrayList<Integer> li){
+    public void find(TreeNode root,int k){
         if(root==null){
             return ;
         }
-        li.add(root.val);
-        small(root.left,li);
-        small(root.right,li);
+        find(root.left,k);
+        count++;
+        if(count==k){
+            ans=root.val;
+            return ;
+        }
+        find(root.right,k);
     }
 }
