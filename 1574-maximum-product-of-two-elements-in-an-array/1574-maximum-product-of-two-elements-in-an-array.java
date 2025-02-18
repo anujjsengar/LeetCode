@@ -1,11 +1,8 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        PriorityQueue<Integer> pq=new PriorityQueue<>(Comparator.reverseOrder());
-        for(int i=0;i<nums.length-1;i++){
-            for(int j=i+1;j<nums.length;j++){
-                pq.add((nums[i]-1)*(nums[j]-1));
-            }
-        }
-        return pq.peek();
+        Arrays.sort(nums);
+        int ans1=(nums[0]-1)*(nums[1]-1);
+        int ans2=(nums[nums.length-2]-1)*(nums[nums.length-1]-1);
+        return Math.max(ans1,ans2);
     }
 }
