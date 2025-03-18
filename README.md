@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/anujjsengar/LeetCode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/anujjsengar/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anujjsengar/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/anujjsengar/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anujjsengar/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/anujjsengar/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/anujjsengar/LeetCode/tree/master/0623-add-one-row-to-tree) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/anujjsengar/LeetCode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/anujjsengar/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/anujjsengar/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/anujjsengar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/anujjsengar/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -878,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anujjsengar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anujjsengar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/anujjsengar/LeetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/anujjsengar/LeetCode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/anujjsengar/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anujjsengar/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/anujjsengar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -908,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/anujjsengar/LeetCode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/anujjsengar/LeetCode/tree/master/0397-integer-replacement) |
 | [0494-target-sum](https://github.com/anujjsengar/LeetCode/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/anujjsengar/LeetCode/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/anujjsengar/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/anujjsengar/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anujjsengar/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
