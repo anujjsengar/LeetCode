@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/anujjsengar/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anujjsengar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0463-island-perimeter](https://github.com/anujjsengar/LeetCode/tree/master/0463-island-perimeter) |
+| [0491-non-decreasing-subsequences](https://github.com/anujjsengar/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/anujjsengar/LeetCode/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/anujjsengar/LeetCode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/anujjsengar/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/anujjsengar/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/anujjsengar/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/anujjsengar/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0491-non-decreasing-subsequences](https://github.com/anujjsengar/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/anujjsengar/LeetCode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/anujjsengar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anujjsengar/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anujjsengar/LeetCode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/anujjsengar/LeetCode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/anujjsengar/LeetCode/tree/master/0476-number-complement) |
+| [0491-non-decreasing-subsequences](https://github.com/anujjsengar/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1054-complement-of-base-10-integer](https://github.com/anujjsengar/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1487-cinema-seat-allocation](https://github.com/anujjsengar/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anujjsengar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anujjsengar/LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anujjsengar/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anujjsengar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/anujjsengar/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/anujjsengar/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anujjsengar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
