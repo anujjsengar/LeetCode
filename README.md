@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/anujjsengar/LeetCode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/anujjsengar/LeetCode/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/anujjsengar/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1293-three-consecutive-odds](https://github.com/anujjsengar/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/anujjsengar/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anujjsengar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anujjsengar/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
