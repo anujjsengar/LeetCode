@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/anujjsengar/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anujjsengar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anujjsengar/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/anujjsengar/LeetCode/tree/master/1731-even-odd-tree) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/anujjsengar/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/anujjsengar/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anujjsengar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anujjsengar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anujjsengar/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anujjsengar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1487-cinema-seat-allocation](https://github.com/anujjsengar/LeetCode/tree/master/1487-cinema-seat-allocation) |
@@ -1093,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/anujjsengar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/anujjsengar/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/anujjsengar/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anujjsengar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anujjsengar/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1916-find-center-of-star-graph](https://github.com/anujjsengar/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anujjsengar/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
