@@ -22,10 +22,10 @@ class Solution {
                 maxodd=Math.max(maxodd,x);
             }
         }
-        System.out.println(minodd);
-        System.out.println(maxodd);
-        System.out.println(mineven);
-        System.out.println(maxeven);
+        // System.out.println(minodd);
+        // System.out.println(maxodd);
+        // System.out.println(mineven);
+        // System.out.println(maxeven);
         if((minodd-maxeven)>(maxodd-mineven)){
             return minodd-maxeven;
         }
