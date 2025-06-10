@@ -26,9 +26,6 @@ class Solution {
         // System.out.println(maxodd);
         // System.out.println(mineven);
         // System.out.println(maxeven);
-        if((minodd-maxeven)>(maxodd-mineven)){
-            return minodd-maxeven;
-        }
-        return maxodd-mineven;
+        return Math.max(minodd-maxeven,maxodd-mineven);
     }
 }
