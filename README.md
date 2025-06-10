@@ -628,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/anujjsengar/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anujjsengar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anujjsengar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/anujjsengar/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3447-clear-digits](https://github.com/anujjsengar/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anujjsengar/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anujjsengar/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anujjsengar/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/anujjsengar/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anujjsengar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/anujjsengar/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anujjsengar/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anujjsengar/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/anujjsengar/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1755-defuse-the-bomb](https://github.com/anujjsengar/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anujjsengar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/anujjsengar/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Binary Indexed Tree
 |  |
 | ------- |
