@@ -1,7 +1,7 @@
 class Solution {
     public boolean stoneGame(int[] piles) {
         HashMap<String,Boolean> set=new HashMap<>();
-        return true;
+        return solve(piles,0,piles.length-1,0,0,true,set);
     }
     public boolean solve(int[] piles,int i,int j,int alice,int bob,boolean flag,HashMap<String,Boolean> set){
         if(i>j){
