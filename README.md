@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anujjsengar/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/anujjsengar/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/anujjsengar/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anujjsengar/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Sorting
 |  |
 | ------- |
