@@ -1,39 +1,29 @@
 class Solution {
     public boolean stoneGame(int[] piles) {
-        ArrayList<Integer> li=new ArrayList<>();
-        for(int i:piles){
-            li.add(i);
-        }
-        return solve(li,0,0,true);
+        HashMap<String,Boolean> set=new HashMap<>();
+        return true;
     }
-    public boolean solve(ArrayList<Integer> li,int alice,int bob,boolean flag){
-        if(li.size()==0){
+    public boolean solve(int[] piles,int i,int j,int alice,int bob,boolean flag,HashMap<String,Boolean> set){
+        if(i>j){
             if(alice>bob){
                 return true;
             }
             return false;
         }
+        String str=i+"-"+j+"-"+flag;
+        if(set.containsKey(str)){
+            return set.get(str);
+        }
         boolean ans=false;
         if(flag){
-            int temp=li.get(0);
-            li.remove(0);
-            ans=ans || solve(li,alice+temp,bob,false);
-            li.add(0,temp);
-            int temp2=li.get(li.size()-1);
-            li.remove(li.size()-1);
-            ans=ans || solve(li,alice+temp2,bob,false);
-            li.add(temp2);
+            ans=ans || solve(piles,i+1,j,alice+piles[i],bob,false,set);
+            ans=ans || solve(piles,i,j-1,alice+piles[j],bob,false,set);
         }
-        else{
-            int temp=li.get(0);
-            li.remove(0);
-            ans=ans || solve(li,alice,bob+temp,true);
-            li.add(0,temp);
-            int temp2=li.get(li.size()-1);
-            li.remove(li.size()-1);
-            ans=ans || solve(li,alice,bob+temp2,true);
-            li.add(temp2);
+        else{ 
+            ans=ans || solve(piles,i+1,j,alice,bob+piles[i],true,set);
+            ans=ans || solve(piles,i,j-1,alice,bob+piles[j],true,set);
         }
+        set.put(str,ans);
         return ans;
     }
 }
