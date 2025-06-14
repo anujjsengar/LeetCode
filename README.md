@@ -687,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anujjsengar/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/anujjsengar/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/anujjsengar/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/anujjsengar/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anujjsengar/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/anujjsengar/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/anujjsengar/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anujjsengar/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/anujjsengar/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anujjsengar/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/anujjsengar/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2756-buy-two-chocolates](https://github.com/anujjsengar/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/anujjsengar/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Hash Table
