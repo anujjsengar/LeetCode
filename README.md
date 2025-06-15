@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/anujjsengar/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/anujjsengar/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anujjsengar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/anujjsengar/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anujjsengar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anujjsengar/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anujjsengar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/anujjsengar/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anujjsengar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/anujjsengar/LeetCode/tree/master/1137-height-checker) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/anujjsengar/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/anujjsengar/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anujjsengar/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anujjsengar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/anujjsengar/LeetCode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/anujjsengar/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/anujjsengar/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/anujjsengar/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1487-cinema-seat-allocation](https://github.com/anujjsengar/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/anujjsengar/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anujjsengar/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -980,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/anujjsengar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/anujjsengar/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/anujjsengar/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/anujjsengar/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1511-count-number-of-teams](https://github.com/anujjsengar/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anujjsengar/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Monotonic Stack
