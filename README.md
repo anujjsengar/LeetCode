@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/anujjsengar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anujjsengar/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anujjsengar/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2350-find-closest-number-to-zero](https://github.com/anujjsengar/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/anujjsengar/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/anujjsengar/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/anujjsengar/LeetCode/tree/master/2502-sort-the-people) |
