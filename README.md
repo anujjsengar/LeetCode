@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/anujjsengar/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3373-maximum-prime-difference](https://github.com/anujjsengar/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anujjsengar/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/anujjsengar/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/anujjsengar/LeetCode/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/anujjsengar/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/anujjsengar/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Shortest Path
 |  |
 | ------- |
