@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/anujjsengar/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anujjsengar/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anujjsengar/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anujjsengar/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anujjsengar/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Simulation
 |  |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximum-prime-difference](https://github.com/anujjsengar/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anujjsengar/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/anujjsengar/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anujjsengar/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -885,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/anujjsengar/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anujjsengar/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anujjsengar/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anujjsengar/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1037,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anujjsengar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anujjsengar/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anujjsengar/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anujjsengar/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bucket Sort
 |  |
 | ------- |
