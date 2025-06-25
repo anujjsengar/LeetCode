@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anujjsengar/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/anujjsengar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/anujjsengar/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/anujjsengar/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anujjsengar/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anujjsengar/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/anujjsengar/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/anujjsengar/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anujjsengar/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anujjsengar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/anujjsengar/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anujjsengar/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anujjsengar/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anujjsengar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
