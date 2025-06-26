@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anujjsengar/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/anujjsengar/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anujjsengar/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anujjsengar/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2502-sort-the-people](https://github.com/anujjsengar/LeetCode/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/anujjsengar/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2727-number-of-senior-citizens](https://github.com/anujjsengar/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anujjsengar/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anujjsengar/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/anujjsengar/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anujjsengar/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/anujjsengar/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anujjsengar/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/anujjsengar/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-greatest-sum-divisible-by-three](https://github.com/anujjsengar/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1511-count-number-of-teams](https://github.com/anujjsengar/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anujjsengar/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anujjsengar/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1032,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anujjsengar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/anujjsengar/LeetCode/tree/master/0397-integer-replacement) |
 | [1236-n-th-tribonacci-number](https://github.com/anujjsengar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anujjsengar/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Counting
 |  |
 | ------- |
