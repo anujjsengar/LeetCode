@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anujjsengar/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/anujjsengar/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anujjsengar/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/anujjsengar/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anujjsengar/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/anujjsengar/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anujjsengar/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/anujjsengar/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anujjsengar/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2107-find-unique-binary-string](https://github.com/anujjsengar/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/anujjsengar/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/anujjsengar/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/anujjsengar/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anujjsengar/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/anujjsengar/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anujjsengar/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/anujjsengar/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anujjsengar/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/anujjsengar/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1502-construct-k-palindrome-strings](https://github.com/anujjsengar/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anujjsengar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/anujjsengar/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anujjsengar/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/anujjsengar/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anujjsengar/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1207,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/anujjsengar/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/anujjsengar/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/anujjsengar/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/anujjsengar/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
