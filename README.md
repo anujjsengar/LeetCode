@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/anujjsengar/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/anujjsengar/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anujjsengar/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3617-find-the-original-typed-string-i](https://github.com/anujjsengar/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anujjsengar/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anujjsengar/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anujjsengar/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
