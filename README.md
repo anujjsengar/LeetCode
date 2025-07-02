@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/anujjsengar/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anujjsengar/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3617-find-the-original-typed-string-i](https://github.com/anujjsengar/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/anujjsengar/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anujjsengar/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anujjsengar/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anujjsengar/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1034,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/anujjsengar/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anujjsengar/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anujjsengar/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/anujjsengar/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1160,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anujjsengar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anujjsengar/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2358-number-of-ways-to-split-array](https://github.com/anujjsengar/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [3618-find-the-original-typed-string-ii](https://github.com/anujjsengar/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anujjsengar/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
 |  |
