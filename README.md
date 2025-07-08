@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/anujjsengar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anujjsengar/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/anujjsengar/LeetCode/tree/master/1803-average-waiting-time) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anujjsengar/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anujjsengar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anujjsengar/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/anujjsengar/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anujjsengar/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anujjsengar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anujjsengar/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anujjsengar/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/anujjsengar/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anujjsengar/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/anujjsengar/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/anujjsengar/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/anujjsengar/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anujjsengar/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anujjsengar/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/anujjsengar/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anujjsengar/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anujjsengar/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1046,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/anujjsengar/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anujjsengar/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1511-count-number-of-teams](https://github.com/anujjsengar/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anujjsengar/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anujjsengar/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anujjsengar/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/anujjsengar/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
